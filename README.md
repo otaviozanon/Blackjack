@@ -1,4 +1,4 @@
-# Blackjack Pro
+# Blackjack PRO
 
 A sleek, luxury-themed Blackjack game built with React, TypeScript, and Tailwind CSS.
 
