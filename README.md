@@ -2,6 +2,8 @@
 
 A sleek, luxury-themed Blackjack game built with React, TypeScript, and Tailwind CSS.
 
+https://blackjackpro-oz.vercel.app
+
 ## Features
 
 - Full Blackjack gameplay: Hit, Stand, Double Down, Split
